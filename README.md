@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BiswayanPaul
 - 👀 I’m interested in C++, Python and Web Development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ("hmm let me think")
+- 🌱 I’m currently learning Data Structures & Algorithms, Web Development
+- 💞️ I’m looking for Internships
 - 📫 Reach me by mailing me at biswayanpaul2015@gmail.com
 
 <!---
