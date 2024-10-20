@@ -19,8 +19,8 @@
   ![Auth.js](https://img.shields.io/badge/Auth.js-v5-4580f0?style=flat-square)  
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-- 💞️ **Looking for:**  
-  Internship opportunities in Software Development, especially in **AI/ML** or **Full-Stack** Web Development.
+- 💼 **Looking for:**  
+  Full-time opportunities in Software Development, particularly in **AI/ML** or **Full-Stack** Web Development.
 
 - 📫 **Reach me at:**  
   [![Mail](https://img.shields.io/badge/Email-biswayanpaulju@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biswayanpaulju@gmail.com)
