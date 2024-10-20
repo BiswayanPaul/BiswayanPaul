@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Biswayan Paul
 
-![Header](https://user-images.githubusercontent.com/BiswayanPaul/banner.png)
-
 ### Welcome to My GitHub Profile!
 
 - 👀 **I'm passionate about:**  
