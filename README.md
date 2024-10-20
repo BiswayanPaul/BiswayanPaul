@@ -40,8 +40,11 @@ I'm actively seeking full-time roles in **Software Development**, particularly i
 
 Here are some of my cool projects:
 
-- 🔗 [**Real-Time Collaborative Whiteboard**](https://github.com/yourusername/whiteboard-project)  
+- 🔗 [**Real-Time Collaborative Whiteboard (DrawAPP)**](https://drawapp-frontend.vercel.app/signin)  
   A **Next.js** based real-time whiteboard application with **WebSocket** communication for collaboration.
+
+- 📝 [**Flash Card Learning App**](https://flash-card-one.vercel.app/)  
+  A web-based flash card application designed to enhance learning using spaced repetition and smart algorithms.
 
 - ♟️ [**Multiplayer Chess Website**](https://github.com/yourusername/chess-website)  
   A fully interactive multiplayer chess website with matchmaking and real-time gameplay using **WebSocket**.
@@ -50,13 +53,8 @@ Here are some of my cool projects:
 
 ### 📫 Let's Connect!
 - [![Mail](https://img.shields.io/badge/Email-biswayanpaulju@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biswayanpaulju@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-BiswayanPaul-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-BiswayanPaul-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswayan-paul-8852411ba/)
 - [![GitHub](https://img.shields.io/badge/GitHub-BiswayanPaul-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 <!---
 BiswayanPaul/BiswayanPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
