@@ -29,10 +29,10 @@
 I'm actively seeking full-time roles in **Software Development**, particularly in areas like **AI/ML** or **Full-Stack Web Development**. Let's collaborate to build something great together!
 
 - 💻 **Check out my portfolio:**  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-BiswayanPaul-1DA1F2?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-4ecp9b9tr-biswayanpauls-projects.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-BiswayanPaul-1DA1F2?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-peach-six-90.vercel.app/)
 
 - 📄 **My Resume:**  
-  [![Resume](https://img.shields.io/badge/Resume-View-00A98F?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aoWqMmBAzIoRmR6uGUyRapE005wmzjGb/view?usp=sharing)
+  [![Resume](https://img.shields.io/badge/Resume-View-00A98F?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1YRT4n4Mz66SX-B1c-ggclfAkJchLsCAs/view?usp=sharing)
 
 ---
 
