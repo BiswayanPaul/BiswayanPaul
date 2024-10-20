@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Biswayan Paul
 
-![Header](https://user-images.githubusercontent.com/your-github-username/your-banner-image.png)
+![Header](https://user-images.githubusercontent.com/BiswayanPaul/banner.png)
 
 ### Welcome to My GitHub Profile!
 
