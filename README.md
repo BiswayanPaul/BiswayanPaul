@@ -46,9 +46,6 @@ Here are some of my cool projects:
 - 📝 [**Flash Card Learning App**](https://flash-card-one.vercel.app/)  
   A web-based flash card application designed to enhance learning using spaced repetition and smart algorithms.
 
-- ♟️ [**Multiplayer Chess Website**](https://github.com/yourusername/chess-website)  
-  A fully interactive multiplayer chess website with matchmaking and real-time gameplay using **WebSocket**.
-
 ---
 
 ### 📫 Let's Connect!
