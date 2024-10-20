@@ -1,10 +1,14 @@
-# 👋 Hi, I’m Biswayan Paul
+# 👋 Hi, I'm Biswayan Paul
+
+![Header](https://user-images.githubusercontent.com/your-github-username/your-banner-image.png)
+
+### Welcome to My GitHub Profile!
 
 - 👀 **I'm passionate about:**  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  ![Web Development](https://img.shields.io/badge/Web-Development-61DAFB?style=flat-square&logo=react&logoColor=white)
+  ![Web Development](https://img.shields.io/badge/Web-Development-61DAFB?style=flat-square&logo=react&logoColor=white)  
 
 - 🌱 **Currently learning:**  
   ![Data Structures & Algorithms](https://img.shields.io/badge/DS%26A-Algorithm-green)  
@@ -19,11 +23,40 @@
   ![Auth.js](https://img.shields.io/badge/Auth.js-v5-4580f0?style=flat-square)  
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-- 💼 **Looking for:**  
-  Full-time opportunities in Software Development, particularly in **AI/ML** or **Full-Stack** Web Development.
+---
 
-- 📫 **Reach me at:**  
-  [![Mail](https://img.shields.io/badge/Email-biswayanpaulju@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biswayanpaulju@gmail.com)
+### 💼 Looking for Full-Time Opportunities!
+I'm actively seeking full-time roles in **Software Development**, particularly in areas like **AI/ML** or **Full-Stack Web Development**. Let's collaborate to build something great together!
+
+- 💻 **Check out my portfolio:**  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-BiswayanPaul-1DA1F2?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-peach-six-90.vercel.app/)
+
+- 📄 **My Resume:**  
+  [![Resume](https://img.shields.io/badge/Resume-View-00A98F?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aoWqMmBAzIoRmR6uGUyRapE005wmzjGb/view?usp=sharing)
+
+---
+
+### 🛠️ Featured Projects
+
+Here are some of my cool projects:
+
+- 🔗 [**Real-Time Collaborative Whiteboard**](https://github.com/yourusername/whiteboard-project)  
+  A **Next.js** based real-time whiteboard application with **WebSocket** communication for collaboration.
+
+- ♟️ [**Multiplayer Chess Website**](https://github.com/yourusername/chess-website)  
+  A fully interactive multiplayer chess website with matchmaking and real-time gameplay using **WebSocket**.
+
+---
+
+### 📫 Let's Connect!
+- [![Mail](https://img.shields.io/badge/Email-biswayanpaulju@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biswayanpaulju@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-BiswayanPaul-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+- [![GitHub](https://img.shields.io/badge/GitHub-BiswayanPaul-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 <!---
 BiswayanPaul/BiswayanPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
