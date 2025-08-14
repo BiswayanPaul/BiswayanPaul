@@ -2,8 +2,16 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
   workflow_dispatch:      # allow manual runs
+  push:                   # also run on changes to README or the workflow file
+    branches: [ main ]
+    paths:
+      - .github/workflows/snake.yml
+      - README.md
+
+permissions:
+  contents: write         # REQUIRED to push to the output branch
 
 jobs:
   build:
@@ -23,7 +31,8 @@ jobs:
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-            target_branch: output
-            build_dir: dist
+          target_branch: output
+          build_dir: dist
+          keep_history: true
         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
